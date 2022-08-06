@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 if [ -z "${INPUT_SLUG_MAXLENGTH}" ]; then
   echo "::error ::slug-maxlength cannot be empty"
